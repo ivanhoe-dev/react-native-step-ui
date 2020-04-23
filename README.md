@@ -5,6 +5,8 @@ A demo of simple react native step ui
 <Step itemList={['123','456',789'] />
 ```
 
+![image](https://github.com/ivanhoe-dev/react-native-step-ui/blob/master/demo.png?raw=true)
+
 Step.js
 
 ```
