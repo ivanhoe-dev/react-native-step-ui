@@ -1,6 +1,10 @@
 # react-native-step-ui
 A demo of simple react native step ui
 
+```
+<Step itemList={['123','456',789'] />
+```
+
 Step.js
 
 ```
@@ -74,7 +78,7 @@ export default class Step extends Component<StepProps, StepState> {
 }
 ```
 
-style.js
+styles.js
 ```
 // @flow
 import EStyleSheet from 'react-native-extended-stylesheet';
